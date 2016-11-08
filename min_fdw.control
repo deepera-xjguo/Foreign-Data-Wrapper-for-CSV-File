@@ -1,0 +1,5 @@
+# min FDW
+comment = 'Min Foreign Data Wrapper'
+default_version = '0.0.1'
+module_pathname = '$libdir/min_fdw'
+relocatable = true
